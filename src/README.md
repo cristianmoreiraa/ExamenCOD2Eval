@@ -1,12 +1,15 @@
 ## Pasos a seguir:
-
+### Creamos un fichero llamado docs y ahí guardamos el JavaDoc
 - 1 Primer paso:
 
          private static Float resultado = null;
             static final int SUMA = 1;
             static final int RESTA = 2;
             static final int MULTIPLICACION = 3;
-            static final int DIVISION = 4;
+            static final int DIVISION = 4;  
+            static final int RAIZCUADRADA = 5;
+            static final int RAIZCUALQUIERA = 6;
+
 - 2 Segundo paso:
             
       public static Float realizar(int device, float num1, float num2){
