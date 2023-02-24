@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="MiLibreria">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../MiLibreria/out/artifacts/MiLibreria_jar/MiLibreria.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
